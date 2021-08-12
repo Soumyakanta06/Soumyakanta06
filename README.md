@@ -1,5 +1,5 @@
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" width="100%" height="300">
-<h1 align="center">Hi 👋, I'm Soumyakanta Mohanty</h1>
+<h1 align="center">Bonjour 👋, I'm Soumyakanta Mohanty</h1>
 <h3 align="center">A passionate frontend developer from India..:green_heart: A self taught developer fond of Web technologies :snowflake: and Design tools :pencil2: who uses both design skills along with web dev skills to land a beautiful website :european_castle: while incorporating data from the backend :atm:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakanta06&label=Profile%20views&color=0e75b6&style=flat" alt="soumyakanta06" /> </p>
