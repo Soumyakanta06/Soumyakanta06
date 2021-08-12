@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyakanta06&show_icons=true&locale=en&layout=compact&theme=algolia" alt="soumyakanta06" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyakanta06&show_icons=true&locale=en" alt="soumyakanta06" /></p> -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumyakanta06&show_icons=true&locale=en" alt="soumyakanta06" /></p> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumyakanta06&theme=blueberry_duo)](https://git.io/streak-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia)
 
