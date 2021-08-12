@@ -40,7 +40,8 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumyakanta06&show_icons=true&locale=en" alt="soumyakanta06" /></p> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumyakanta06&theme=blueberry_duo)](https://git.io/streak-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia) -->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" /></p><br><br><br><br><br><br><br><br>
 
 
-<h3 align="center">Always up for contributing in projects :v: and learning new design and technical stuffs :heart:</h3>
+<h3 align="center" style="margin-top:80px";>Always up for contributing in projects :v: and learning new design and technical stuffs :heart:</h3>
