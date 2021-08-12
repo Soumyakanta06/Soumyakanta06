@@ -37,12 +37,12 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="75" height="75"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="75" height="75"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"width="75" height="75"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"width="75" height="75"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyakanta06&show_icons=true&locale=en&layout=compact&theme=algolia" alt="soumyakanta06" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" width="400"/></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" width="450"/></p>
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumyakanta06&show_icons=true&locale=en" alt="soumyakanta06" /></p> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumyakanta06&theme=blueberry_duo)](https://git.io/streak-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia) -->
-<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" /></p><br><br><br><br><br><br><br><br> -->
-
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" /></p><br><br> -->
+<br><br><br><br><br><br><br><br>
 
 <h3 align="center" style="margin-top:80px";>Always up for contributing in projects :v: and learning new design and technical stuffs :heart:</h3>
