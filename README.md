@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend frameworks and Related stuffs**
 
-- 📫 How to reach me **soumyakantam022@gmail.com**
+- 📫 Drop a message in **soumyakantam022@gmail.com**
 
 - ⚡ Fun fact **Too lazy to write lab records**
 
