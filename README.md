@@ -45,4 +45,4 @@
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Soumyakanta06&show_icons=true&theme=algolia" alt="soumyakanta06" /></p><br><br><br><br><br><br><br><br> -->
 
 
-<!-- <h3 align="center" style="margin-top:80px";>Always up for contributing in projects :v: and learning new design and technical stuffs :heart:</h3> -->
+<h3 align="center" style="margin-top:80px";>Always up for contributing in projects :v: and learning new design and technical stuffs :heart:</h3>
